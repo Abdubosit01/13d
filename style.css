@@ -1,0 +1,127 @@
+h1{
+text-align: center;
+color: white;
+}
+
+b{
+    color: yellow;
+}
+
+header{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+}
+
+body{
+    background-color: rgb(240, 128, 193);
+}
+
+
+.car{
+background-color: black;
+color: white;
+height: 300px;
+width: 300px;
+text-align: center;
+}
+
+.man{
+    background-color: black;
+    color: white;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+
+}
+
+.man3{
+    background-color: black;
+    color: white;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+
+
+}
+
+.man2{
+
+    background-color: black;
+    color: white;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+
+ 
+}
+
+
+.man4{
+   
+    background-color: black;
+    color: white;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+
+  
+}
+
+
+.man5{
+    background-color: black;
+    color: white;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+
+}
+
+
+main{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+gap: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
